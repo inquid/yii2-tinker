@@ -1,6 +1,8 @@
 # Yii2 Tinker
 [![Build Status](https://travis-ci.org/luoxiaojun1992/yii2-tinker.svg?branch=master)](https://travis-ci.org/luoxiaojun1992/yii2-tinker)
 
+Inquid Improvements
+
 ## Features
 A console debugger like laravel artisan tinker
 
