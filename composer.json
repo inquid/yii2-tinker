@@ -27,7 +27,7 @@
     "php": ">=5.4.0",
     "yiisoft/yii2": "*",
     "symfony/var-dumper": "~5.0",
-    "psy/psysh": "0.10.8 | 0.9.9"
+    "psy/psysh": "0.10.9 | 0.9.9"
   },
   "autoload": {
     "psr-4": {"Yii2Tinker\\": "src/"}
